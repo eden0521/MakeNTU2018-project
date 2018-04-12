@@ -1,4 +1,4 @@
-# MakeNTU2018
+# MakeNTU2018-project
 
 作品名稱：男女糾察隊。
 
